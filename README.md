@@ -1,3 +1,5 @@
 # digitalizacion-ZamboninoClaudia-CaballeroAlejandro
-Claudia Zambonino Sexto
-Práctica Digitalizacion 1ASIR
+En esta actividad, vamos a repasar cómo funciona el uso de Github, ya que es algo muy
+importante que se usa en un entorno real de trabajo y es útil para nuestro futuro profesional.
+- Claudia Zambonino Sexto, Alejandro Caballero Moreno
+Práctica Digitalizacion 1ºASIR
