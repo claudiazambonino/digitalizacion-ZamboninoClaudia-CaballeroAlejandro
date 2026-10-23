@@ -1,2 +1,3 @@
 # digitalizacion-ZamboninoClaudia-CaballeroAlejandro
-Practica Digitalizacion 1ASIR
+Claudia Zambonino Sexto
+Práctica Digitalizacion 1ASIR
